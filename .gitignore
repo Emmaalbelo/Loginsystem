@@ -1,0 +1,10 @@
+#en esta carpeta agregamos 
+#todos los archivos que queremos que git
+#ignore
+
+login_prueba.py
+Mensajes_error.py
+otra_preba.py
+
+#luego de agregar al listado, pasamos a storage a 
+#.gitignore por medio de add
